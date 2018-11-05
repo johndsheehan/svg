@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568543"
-     inkscape:cx="227.49098"
-     inkscape:cy="1507.2497"
+     inkscape:zoom="1"
+     inkscape:cx="255.77525"
+     inkscape:cy="1790.0924"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -238,60 +238,60 @@
     <g
        id="g4634"
        transform="matrix(0.28222198,0,0,0.28222198,-1.3499996,-314.35002)"
-       style="stroke:#000000;stroke-opacity:1;fill:none;fill-opacity:1;stroke-width:0.35433102;stroke-miterlimit:4;stroke-dasharray:none">
+       style="stroke:#fa0000;stroke-opacity:1;fill:none;fill-opacity:1;stroke-width:0.35433102;stroke-miterlimit:4;stroke-dasharray:none">
       <g
          id="g4592"
          transform="translate(22.500018,22.500018)"
-         style="stroke:#000000;stroke-opacity:1;fill:none;fill-opacity:1;stroke-width:0.35433102;stroke-miterlimit:4;stroke-dasharray:none">
+         style="stroke:#fa0000;stroke-opacity:1;fill:none;fill-opacity:1;stroke-width:0.35433102;stroke-miterlimit:4;stroke-dasharray:none">
         <polygon
            id="polygon4590"
            points="10.62993,116.92923 10.62993,58.464615 0,58.464615 0,0 46.948858,0 46.948858,10.62993 93.897715,10.62993 93.897715,0 129.33082,0 129.33082,10.62993 176.27967,10.62993 176.27967,0 223.22853,0 223.22853,58.464615 212.5986,58.464615 212.5986,116.92923 223.22853,116.92923 223.22853,152.36233 212.5986,152.36233 212.5986,187.79543 223.22853,187.79543 223.22853,223.22853 212.5986,223.22853 212.5986,281.69314 223.22853,281.69314 223.22853,340.15776 176.27967,340.15776 176.27967,329.52783 129.33082,329.52783 129.33082,340.15776 93.897715,340.15776 93.897715,329.52783 46.948858,329.52783 46.948858,340.15776 0,340.15776 0,281.69314 10.62993,281.69314 10.62993,223.22853 0,223.22853 0,187.79543 10.62993,187.79543 10.62993,152.36233 0,152.36233 0,116.92923 "
-           style="fill:none;stroke:#000000;stroke-width:0.35433102;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+           style="fill:none;stroke:#fa0000;stroke-width:0.35433102;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
       </g>
       <g
          id="g4596"
          transform="translate(245.72855,22.500018)"
-         style="stroke:#000000;stroke-opacity:1;fill:none;fill-opacity:1;stroke-width:0.35433102;stroke-miterlimit:4;stroke-dasharray:none">
+         style="stroke:#fa0000;stroke-opacity:1;fill:none;fill-opacity:1;stroke-width:0.35433102;stroke-miterlimit:4;stroke-dasharray:none">
         <polygon
            id="polygon4594"
            points="10.62993,116.92923 10.62993,58.464615 0,58.464615 0,0 46.948858,0 46.948858,10.62993 93.897715,10.62993 93.897715,0 129.33082,0 129.33082,10.62993 176.27967,10.62993 176.27967,0 223.22853,0 223.22853,58.464615 212.5986,58.464615 212.5986,116.92923 223.22853,116.92923 223.22853,152.36233 212.5986,152.36233 212.5986,187.79543 223.22853,187.79543 223.22853,223.22853 212.5986,223.22853 212.5986,281.69314 223.22853,281.69314 223.22853,340.15776 176.27967,340.15776 176.27967,329.52783 129.33082,329.52783 129.33082,340.15776 93.897715,340.15776 93.897715,329.52783 46.948858,329.52783 46.948858,340.15776 0,340.15776 0,281.69314 10.62993,281.69314 10.62993,223.22853 0,223.22853 0,187.79543 10.62993,187.79543 10.62993,152.36233 0,152.36233 0,116.92923 "
-           style="fill:none;stroke:#000000;stroke-width:0.35433102;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+           style="fill:none;stroke:#fa0000;stroke-width:0.35433102;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
       </g>
       <g
          id="g4600"
          transform="translate(468.95708,22.500018)"
-         style="stroke:#000000;stroke-opacity:1;fill:none;fill-opacity:1;stroke-width:0.35433102;stroke-miterlimit:4;stroke-dasharray:none">
+         style="stroke:#fa0000;stroke-opacity:1;fill:none;fill-opacity:1;stroke-width:0.35433102;stroke-miterlimit:4;stroke-dasharray:none">
         <polygon
            id="polygon4598"
            points="0,116.92923 0,58.464615 10.62993,58.464615 10.62993,0 46.948858,0 46.948858,10.62993 93.897715,10.62993 93.897715,0 129.33082,0 129.33082,10.62993 176.27967,10.62993 176.27967,0 212.5986,0 212.5986,58.464615 223.22853,58.464615 223.22853,116.92923 212.5986,116.92923 212.5986,152.36233 223.22853,152.36233 223.22853,187.79543 212.5986,187.79543 212.5986,223.22853 223.22853,223.22853 223.22853,281.69314 212.5986,281.69314 212.5986,340.15776 176.27967,340.15776 176.27967,329.52783 129.33082,329.52783 129.33082,340.15776 93.897715,340.15776 93.897715,329.52783 46.948858,329.52783 46.948858,340.15776 10.62993,340.15776 10.62993,281.69314 0,281.69314 0,223.22853 10.62993,223.22853 10.62993,187.79543 0,187.79543 0,152.36233 10.62993,152.36233 10.62993,116.92923 "
-           style="fill:none;stroke:#000000;stroke-width:0.35433102;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+           style="fill:none;stroke:#fa0000;stroke-width:0.35433102;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
       </g>
       <g
          id="g4604"
          transform="translate(468.95708,362.65778)"
-         style="stroke:#000000;stroke-opacity:1;fill:none;fill-opacity:1;stroke-width:0.35433102;stroke-miterlimit:4;stroke-dasharray:none">
+         style="stroke:#fa0000;stroke-opacity:1;fill:none;fill-opacity:1;stroke-width:0.35433102;stroke-miterlimit:4;stroke-dasharray:none">
         <polygon
            id="polygon4602"
            points="0,116.92923 0,58.464615 10.62993,58.464615 10.62993,0 46.948858,0 46.948858,10.62993 93.897715,10.62993 93.897715,0 129.33082,0 129.33082,10.62993 176.27967,10.62993 176.27967,0 212.5986,0 212.5986,58.464615 223.22853,58.464615 223.22853,116.92923 212.5986,116.92923 212.5986,152.36233 223.22853,152.36233 223.22853,187.79543 212.5986,187.79543 212.5986,223.22853 223.22853,223.22853 223.22853,281.69314 212.5986,281.69314 212.5986,340.15776 176.27967,340.15776 176.27967,329.52783 129.33082,329.52783 129.33082,340.15776 93.897715,340.15776 93.897715,329.52783 46.948858,329.52783 46.948858,340.15776 10.62993,340.15776 10.62993,281.69314 0,281.69314 0,223.22853 10.62993,223.22853 10.62993,187.79543 0,187.79543 0,152.36233 10.62993,152.36233 10.62993,116.92923 "
-           style="fill:none;stroke:#000000;stroke-width:0.35433102;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+           style="fill:none;stroke:#fa0000;stroke-width:0.35433102;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
       </g>
       <g
          id="g4608"
          transform="translate(22.500018,362.65778)"
-         style="stroke:#000000;stroke-opacity:1;fill:none;fill-opacity:1;stroke-width:0.35433102;stroke-miterlimit:4;stroke-dasharray:none">
+         style="stroke:#fa0000;stroke-opacity:1;fill:none;fill-opacity:1;stroke-width:0.35433102;stroke-miterlimit:4;stroke-dasharray:none">
         <polygon
            id="polygon4606"
            points="212.5986,93.897715 212.5986,129.33082 223.22853,129.33082 223.22853,176.27967 212.5986,176.27967 212.5986,212.5986 176.27967,212.5986 176.27967,223.22853 129.33082,223.22853 129.33082,212.5986 93.897715,212.5986 93.897715,223.22853 46.948858,223.22853 46.948858,212.5986 10.62993,212.5986 10.62993,176.27967 0,176.27967 0,129.33082 10.62993,129.33082 10.62993,93.897715 0,93.897715 0,46.948858 10.62993,46.948858 10.62993,10.62993 46.948858,10.62993 46.948858,0 93.897715,0 93.897715,10.62993 129.33082,10.62993 129.33082,0 176.27967,0 176.27967,10.62993 212.5986,10.62993 212.5986,46.948858 223.22853,46.948858 223.22853,93.897715 "
-           style="fill:none;stroke:#000000;stroke-width:0.35433102;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+           style="fill:none;stroke:#fa0000;stroke-width:0.35433102;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
       </g>
       <g
          id="g4612"
          transform="translate(245.72855,362.65778)"
-         style="stroke:#000000;stroke-opacity:1;fill:none;fill-opacity:1;stroke-width:0.35433102;stroke-miterlimit:4;stroke-dasharray:none">
+         style="stroke:#fa0000;stroke-opacity:1;fill:none;fill-opacity:1;stroke-width:0.35433102;stroke-miterlimit:4;stroke-dasharray:none">
         <polygon
            id="polygon4610"
            points="212.5986,93.897715 212.5986,129.33082 223.22853,129.33082 223.22853,176.27967 212.5986,176.27967 212.5986,212.5986 176.27967,212.5986 176.27967,223.22853 129.33082,223.22853 129.33082,212.5986 93.897715,212.5986 93.897715,223.22853 46.948858,223.22853 46.948858,212.5986 10.62993,212.5986 10.62993,176.27967 0,176.27967 0,129.33082 10.62993,129.33082 10.62993,93.897715 0,93.897715 0,46.948858 10.62993,46.948858 10.62993,10.62993 46.948858,10.62993 46.948858,0 93.897715,0 93.897715,10.62993 129.33082,10.62993 129.33082,0 176.27967,0 176.27967,10.62993 212.5986,10.62993 212.5986,46.948858 223.22853,46.948858 223.22853,93.897715 "
-           style="fill:none;stroke:#000000;stroke-width:0.35433102;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+           style="fill:none;stroke:#fa0000;stroke-width:0.35433102;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
       </g>
     </g>
     <rect
